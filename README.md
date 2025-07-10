@@ -9,7 +9,7 @@ Aqui el texto que se requiere para una breve descripción  de lo que se pretende
 
 Aqui mas text
   
-### Alguno circuitos Útiles
+### Algunos circuitos Útiles
 	Aqui una tabla 
  
 ## Software
