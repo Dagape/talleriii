@@ -8,6 +8,7 @@ Aqui el texto que se requiere para una breve descripción  de lo que se pretende
 Aqui una imagen
  	Aqui un texto o código 
   aqui mas text
+  
 ### Alguno circuitos Útiles
 	Aqui una tabla 
  
