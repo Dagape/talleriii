@@ -1,4 +1,3 @@
-
 # Taller de todas lás cosas iii
 
 ## Electrónica
