@@ -1,6 +1,19 @@
-### talleriii, con tres
-## Taller de todas lás cosas iii, condos 
-# Prueba de encabezados, con uno 
+
+# Taller de todas lás cosas iii
+
+## Electrónica
+### Prácticas de Electrónica
+Aqui el texto que se requiere para una breve descripción  de lo que se pretende con las prácticas de electrónica destructiva
+	Aqui una imagen
+ 	Aqui un texto o código 
+  aqui mas text
+## Software
+
+## Mecanizado
+
+## Diseño 3D
+
+
 Haciendo pruebas sobre si está plataforma sirve para  trabajo colaborativo
 
 	Una idea de hoy en la noche es iniciar con cursos de electrónica 100% practicos
