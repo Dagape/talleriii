@@ -2,11 +2,16 @@
 # Taller de todas lás cosas iii
 
 ## Electrónica
+
 ### Prácticas de Electrónica
 Aqui el texto que se requiere para una breve descripción  de lo que se pretende con las prácticas de electrónica destructiva
-	Aqui una imagen
+
+Aqui una imagen
  	Aqui un texto o código 
   aqui mas text
+### Alguno circuitos Útiles
+	Aqui una tabla 
+ 
 ## Software
 
 ## Mecanizado
