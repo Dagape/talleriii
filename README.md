@@ -29,6 +29,7 @@ generar una lista  de prácticas y unalista de personas interesadas
 ## Proyectos
 
 <details>
+https://github.com/users/Dagape/projects/5
 
 <summary>Tips for collapsed sections</summary>
 
