@@ -1,0 +1,22 @@
+name: Reportar un error
+description: Usa este formulario para reportar un problema.
+body:
+  - type: input
+    id: prevalence
+    attributes:
+      label: Frecuencia del error
+      description: ¿Con qué frecuencia ocurre este problema?
+      placeholder: Ejemplo: Cada vez que visito la página de cuenta personal (1-2 veces por semana)
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Pasos para reproducir
+      description: Describe cómo se puede reproducir el error.
+      placeholder: 1. Ir a la página X... 2. Hacer clic en Y...
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "Gracias por completar el formulario."   
