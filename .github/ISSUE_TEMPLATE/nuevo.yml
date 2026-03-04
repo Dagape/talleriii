@@ -1,6 +1,6 @@
 name: "Formulario de contacto"
 description: "Usa este formulario para reportar bugs o pedir ayuda."
-title: Contacto
+title: "Contacto"
 labels: contacto
 body:
   - type: input
