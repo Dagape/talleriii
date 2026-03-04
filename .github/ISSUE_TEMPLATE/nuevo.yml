@@ -1,7 +1,7 @@
 name: Formulario de contacto
-description: Usa este formulario para reportar bugs o pedir ayuda.
-title: "Contacto: {nombre}"
-labels: ["contacto"]
+- description: Usa este formulario para reportar bugs o pedir ayuda.
+- title: "Contacto: {nombre}"
+- labels: ["contacto"]
 body:
   - type: input
     id: nombre
