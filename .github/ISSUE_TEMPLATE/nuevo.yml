@@ -9,14 +9,14 @@ body:
       label: Nombre
       description: Tu nombre completo
       placeholder: "Ej. María"
-      required: true
+    required: true
 
   - type: email
     id: email
     attributes:
       label: Correo electrónico
       description: Para poder responderte
-      required: true
+    required: true
 
   - type: textarea
     id: mensaje
@@ -24,4 +24,4 @@ body:
       label: Mensaje
       description: Describe tu problema o petición
       placeholder: "Detalles..."
-      required: true  
+   required: true  
