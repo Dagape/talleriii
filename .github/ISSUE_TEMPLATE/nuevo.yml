@@ -1,24 +1,4 @@
 name: "Formulario de contacto"
-description: Usa este formulario para reportar bugs o pedir ayuda.
 title: "Contacto"
-body:
-  - type: input
-    id: nombre
-    attributes:
-      label: Nombre
-      description: Tu nombre completo
-      placeholder: "Ej. María"
-      required: true
-  - type: email
-    id: email
-    attributes:
-      label: Correo electrónico
-      description: Para poder responderte
-      required: true
-  - type: textarea
-    id: mensaje
-    attributes:
-      label: Mensaje
-      description: Describe tu problema o petición
-      placeholder: "Detalles..."
-      required: true  
+
+
