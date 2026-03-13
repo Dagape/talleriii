@@ -5,7 +5,7 @@ body:
   attributes:
     label: First name
 - type: input
-  id: name
+  id: name1
   attributes:
     label: Last name
 
