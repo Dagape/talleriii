@@ -1,5 +1,5 @@
-name: "Bitácora digital "
-description: "Datos generales de equipo que esta ingresando"
+name: "Bitácora digital Tareas Generales "
+description: "Tareas generales sobre trabajos "
 body:
 - type: input
   id: serie
