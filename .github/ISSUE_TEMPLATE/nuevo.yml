@@ -1,4 +1,5 @@
 name: "hola texto"
+description: "Thank you for reporting a bug!"
 - type: textarea
   attributes:
     label: Operating System
