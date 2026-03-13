@@ -1,35 +1,55 @@
-name: "hola texto"
-description: "Thank you for reporting a bug!"
-- type: textarea
+name: "Bitácora digital "
+description: "Datos generales de equipo que esta ingresando"
+body:
+- type: input
+  id: serie
   attributes:
-    label: Operating System
-    description: What operating system are you using?
-    placeholder: "Example: macOS Big Sur"
-    value: operating system
+    label: Número de serie
+    description: "Ingresar el número de serie"
+    placeholder: "serial no"
+  validations:
+    required: true  
+- type: input
+  id: prevalence
+  attributes:
+    label: Origen de equipo a revisar
+    description: "Descripción de su area de adscripción"
+    placeholder: "Zona, region o área"
   validations:
     required: true
-- type: dropdown
+- type: input
+  id: modelo
   attributes:
-    label: Version
-    description: What version of our software are you running?
-    multiple: false
-    options:
-      - 1.0.2 (Default)
-      - 1.0.3 (Edge)
-    default: 0
+    label: Marca / modelo
+    description: "Ingrese la marca y modelo del equipo"
+    placeholder: "Epson 211, Xerox, HP 1200 , etc"
+  validations:
+    required: true
+- type: input
+  id: usuario
+  attributes:
+    label: Nombre de usuario 
+    description: "Nombre de persona que entrega el equipo"
+    placeholder: "Ingrese también numero de celular o no extensión telefonica "
   validations:
     required: true
 - type: checkboxes
+  id: p1
   attributes:
-    label: Code of Conduct
-    description: The Code of Conduct helps create a safe space for everyone. We require
-      that everyone agrees to it.
+    label: Que problema esta presentando el equipo?
+    description: Si es necesario seleccionar mas de uno
     options:
-      - label: I agree to follow this project's [Code of Conduct](link/to/coc)
-        required: true
-- type: markdown
+      - label: Ruido fuerte en el interior de equipo
+      - label: Mala calidad de imagen
+      - label: Atoramiento de papel en el recorrido / 
+- type: input
+  id: usuario2
   attributes:
-    value: "Thanks for completing our form!"
+    label: Información Adicional 
+    description: "Algúna información o nota respecto al equipo"
+    placeholder: "Se reemplazo toner nuevo y no funciona, viene de otra reparación, se trabajo sin tinta este equipo, "
+  validations:
+    required: true
 
 
 
