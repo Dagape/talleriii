@@ -1,4 +1,4 @@
-name:" hola texto"
+name: "hola texto"
 - type: textarea
   attributes:
     label: Operating System
