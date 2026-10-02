@@ -27,7 +27,8 @@ el nombre del curso es electrónica recreativa / destructica / no destructiva
 generar una lista  de prácticas y unalista de personas interesadas
 
 ## Proyectos
-### Proyecto VAT<details>
+### Proyecto VAT
+<Descripcion General >
 Uno de los proyectos es el del VAT, Vehículo Autónomo Terrestre. Casi como un sueño imposible. 
 aquí debo colocar algo que los separe a simple vista.
 
