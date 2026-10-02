@@ -17,6 +17,8 @@ Aqui mas text
 ## Mecanizado
 
 ## Diseño 3D
+### Impresión 3D
+#### Ejemplos 
 
 
 Haciendo pruebas sobre si está plataforma sirve para  trabajo colaborativo
