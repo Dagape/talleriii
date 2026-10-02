@@ -28,9 +28,9 @@ generar una lista  de prácticas y unalista de personas interesadas
 
 ## Proyectos
 ### Proyecto VAT
-<Descripcion General >
+<Descripcion>
 Uno de los proyectos es el del VAT, Vehículo Autónomo Terrestre. Casi como un sueño imposible. 
-aquí debo colocar algo que los separe a simple vista.
+aquí debo colocar algo que los separe a simple vista de los otro proyectos.
 
 <details>
 https://github.com/users/Dagape/projects/5
